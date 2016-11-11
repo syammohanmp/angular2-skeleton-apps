@@ -1,13 +1,13 @@
 # angular2-skeleton-apps
 Skeleton Applications using Angular 2
 
-Hello World App
+<h2>Hello World App<h2>
 
-Install Packages
+<h4>Install Packages</h4>
 
-npm install
+<code>npm install</code>
 
-Compile and Run
+<h4>Compile and Run</h4>
 
-npm start
+<code>npm start</code>
 
